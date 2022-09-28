@@ -1,0 +1,55 @@
+
+.main-div{
+    background-color: beige;
+    
+    width: 100%;
+    
+
+}
+.ul{
+    list-style: none;
+    
+    display: flex;
+    position: relative;
+    left: 662px;
+    top: -42px;
+
+    
+    
+}
+.ul li{
+    margin: 5px;
+}
+.color-filler{
+   color: chocolate; 
+   font-size: 35px;
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   top: 21px;
+   left: 326px;
+}
+.body-div{
+    height: 300px;
+    width: 500px;
+    background-color: aquamarine;
+    /* margin-bottom: 94px; */
+    /* margin-top: -19px; */
+    border-radius: 30px;
+    margin-left: 300px;
+}
+.body-h2{
+
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.button{
+    
+    position: relative;
+    top: 150px;
+    left: 229px;
+    color: aliceblue;
+}
+.button:hover{
+    background-color: black;
+}
